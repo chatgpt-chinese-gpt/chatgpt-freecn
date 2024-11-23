@@ -1,6 +1,6 @@
 # ChatGPT中文版免费使用指南（支持GPT-4，无需翻墙）
 
-> **更新时间：2024/11/23**  
+> **更新时间：2024/11/24**  
 > **作者：loursa**
 
 **想免费体验 ChatGPT 中文版？支持 GPT-4 的国内访问资源来了！**  
@@ -79,8 +79,8 @@
 
 | 镜像站名称           | 地址                      | 支持版本       | 免费额度   | 注册方式       | 稳定性 | 功能亮点 |
 |----------------------|---------------------------|---------------|-----------|---------------|-------|---------|
-| **蛇语 AI**         | [snakegpt.work](https://snakegpt.work) | GPT-4, GPT-3.5 | 有 | 邮箱注册 | 高     | 中文支持、支持 Claude 和绘图 |
-| **GPT 猫中文站**     | [gptcat.net](https://gptcat.net)      | GPT-4        | 有限免费 | 无需注册     | 中     | 中文界面，无广告 |
+| **蛇语 AI**         | [snakegpt.work](https://snakegpt.work) | GPT-4, GPT-3.5 | 有 | 国内邮箱注册 | 高     | 中文支持、支持 Claude 和绘图 |
+| **GPT 猫中文站**     | [gptcat.net](https://gptcat.net)      | GPT-4        | 有 | 国内邮箱注册    | 高     | 中文界面，无广告 |
 | **熊猫 GPT**         | [ai-panda.xyz](https://ai-panda.xyz) | GPT-4, GPT-3.5 | 有 | 邮箱注册 | 高     | 稳定快速，支持 API 调用 |
 | **狗狗 GPT**         | [gptdog.online](https://gptdog.online) | GPT-3.5      | 有 | 无需注册     | 中     | 免费无限制，新手友好 |
 

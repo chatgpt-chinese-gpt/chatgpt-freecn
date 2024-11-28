@@ -81,7 +81,7 @@
 |----------------------|---------------------------|---------------|-----------|---------------|-------|---------|
 | **蛇语 AI**         | [snakegpt.work](https://snakegpt.work) | GPT-4, GPT-3.5 | 有 | 国内邮箱注册 | 高     | 中文支持、支持 Claude 和绘图 |
 | **GPT 猫中文站**     | [gptcat.net](https://gptcat.net)      | GPT-4        | 有 | 国内邮箱注册    | 高     | 中文界面，无广告 |
-| **熊猫 GPT**         | [ai-panda.xyz](https://ai-panda.xyz) | GPT-4, GPT-3.5 | 有 | 邮箱注册 | 高     | 稳定快速，支持 API 调用 |
+| **熊猫 GPT**         | [https://ai-panda.xyz/](https://ai-panda.xyz/login?invite_code=34137c47) | GPT-4, GPT-3.5 | 有 | 邮箱注册 | 高     | 稳定快速，支持 API 调用 |
 | **狗狗 GPT**         | [gptdog.online](https://gptdog.online) | GPT-3.5      | 有 | 无需注册     | 中     | 免费无限制，新手友好 |
 
 **推荐理由**：

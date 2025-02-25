@@ -6,6 +6,9 @@
 **想免费体验 ChatGPT 中文版？支持 GPT-4 的国内访问资源来了！**  
 我们为您整理了国内最全面的 **ChatGPT中文版免费使用指南**，包括高效的 GPT-4 中文访问教程，推荐无需翻墙即可使用的镜像网站和详细对比，让您轻松开启 AI 智能对话之旅。
 
+ChatGPT 中文版：[https://gptcat.net](https://gptcat.net/) （无需翻墙）    
+ChatGPT 中文版镜像网站：[snakegpt.work](https://snakegpt.work) （无需翻墙）  
+
 ---
 
 ## 📋 目录

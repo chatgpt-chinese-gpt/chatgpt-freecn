@@ -6,7 +6,7 @@
 **想免费体验 ChatGPT 中文版？支持 GPT-4 的国内访问资源来了！**  
 我们为您整理了国内最全面的 **ChatGPT中文版免费使用指南**，包括高效的 GPT-4 中文访问教程，推荐无需翻墙即可使用的镜像网站和详细对比，让您轻松开启 AI 智能对话之旅。
 
-ChatGPT 中文版：[https://chat2.chat2.gptcat.cc](https://chat2.chat2.gptcat.cc/) （无需翻墙）    
+ChatGPT 中文版：[https://chat2.chat2.chat2.gptcat.cc](https://chat2.chat2.chat2.gptcat.cc/) （无需翻墙）    
 ChatGPT 中文版镜像网站：[snakegpt.com.cn](https://snakegpt.com.cn) （无需翻墙）  
 
 ---
@@ -56,7 +56,7 @@ ChatGPT 中文版镜像网站：[snakegpt.com.cn](https://snakegpt.com.cn) （�
 ### **方法一：使用免费镜像网站**
 通过国内优化的镜像站点，您可以直接体验 ChatGPT 中文版，无需翻墙，部分站点还提供 GPT-4 免费额度。
 
-1. **访问推荐镜像站点**：如 [snakegpt.com.cn](https://snakegpt.com.cn) 或 [chat2.chat2.gptcat.cc](https://chat2.chat2.gptcat.cc)。
+1. **访问推荐镜像站点**：如 [snakegpt.com.cn](https://snakegpt.com.cn) 或 [chat2.chat2.chat2.gptcat.cc](https://chat2.chat2.chat2.gptcat.cc)。
 2. **注册账号**：
    - 填写邮箱和密码，快速创建账号。
    - 部分站点无需注册，直接进入聊天界面。
@@ -83,13 +83,13 @@ ChatGPT 中文版镜像网站：[snakegpt.com.cn](https://snakegpt.com.cn) （�
 | 镜像站名称           | 地址                      | 支持版本       | 免费额度   | 注册方式       | 稳定性 | 功能亮点 |
 |----------------------|---------------------------|---------------|-----------|---------------|-------|---------|
 | **蛇语 AI**         | [snakegpt.com.cn](https://snakegpt.com.cn) | GPT-4, GPT-3.5 | 有 | 国内邮箱注册 | 高     | 中文支持、支持 Claude 和绘图 |
-| **GPT 猫中文站**     | [chat2.chat2.gptcat.cc](https://chat2.chat2.gptcat.cc)      | GPT-4        | 有 | 国内邮箱注册    | 高     | 中文界面，无广告 |
+| **GPT 猫中文站**     | [chat2.chat2.chat2.gptcat.cc](https://chat2.chat2.chat2.gptcat.cc)      | GPT-4        | 有 | 国内邮箱注册    | 高     | 中文界面，无广告 |
 | **熊猫 GPT**         | [https://ai-panda.xyz/](https://ai-panda.xyz/login?invite_code=34137c47) | GPT-4, GPT-3.5 | 有 | 邮箱注册 | 高     | 稳定快速，支持 API 调用 |
 | **狗狗 GPT**         | [gptdog.online](https://gptdog.online) | GPT-3.5      | 有 | 无需注册     | 中     | 免费无限制，新手友好 |
 
 **推荐理由**：
 1. `snakegpt.com.cn`：支持 GPT-4，提供免费额度，适合中文深度体验。
-2. `chat2.chat2.gptcat.cc`：简洁中文界面，免注册快速体验。
+2. `chat2.chat2.chat2.gptcat.cc`：简洁中文界面，免注册快速体验。
 3. `ai-panda.xyz`：支持开发者 API 调用，功能强大。
 4. `gptdog.online`：完全免费，适合新手快速上手。
 
@@ -121,7 +121,7 @@ ChatGPT 中文版镜像网站：[snakegpt.com.cn](https://snakegpt.com.cn) （�
 ## 常见问题解答（FAQ）
 
 1. **ChatGPT 中文版免费吗？**  
-   是的，部分镜像站点提供免费额度，推荐使用 `snakegpt.com.cn` 或 `chat2.chat2.gptcat.cc`。
+   是的，部分镜像站点提供免费额度，推荐使用 `snakegpt.com.cn` 或 `chat2.chat2.chat2.gptcat.cc`。
 
 2. **如何使用 GPT-4 免费功能？**  
    注册国内镜像站点账号，选择 GPT-4 模型，即可享受免费试用。
@@ -158,4 +158,4 @@ ChatGPT 中文版镜像网站：[snakegpt.com.cn](https://snakegpt.com.cn) （�
                                                                                                                                                                      
                                                                                                                        
                                                                                      
-       
+         

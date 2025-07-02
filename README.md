@@ -1,4 +1,4 @@
-# ChatGPT中文版:免费使用指南（支持GPT-4，GPT-4o，GPT-o1以及grok，无需翻墙）【5月最新】
+# ChatGPT中文版:免费使用指南（支持GPT-4，GPT-4o，GPT-o1以及grok，无需翻墙）【7月最新】
   
 > **更新时间： 2025/07/02**      
  
@@ -6,7 +6,7 @@
 **想免费体验 ChatGPT 中文版？支持 GPT-4 的国内访问资源来了！**  
 我们为您整理了国内最全面的 **ChatGPT中文版免费使用指南**，包括高效的 GPT-4 中文访问教程，推荐无需翻墙即可使用的镜像网站和详细对比，让您轻松开启 AI 智能对话之旅。
 
-ChatGPT 中文版：[https://chat2.gptcat.cc](https://chat2.gptcat.cc/) （无需翻墙）    
+ChatGPT 中文版：[https://gptcat.cc](https://gptcat.cc/) （无需翻墙）    
 ChatGPT 中文版镜像网站：[snakegpt.vip](https://snakegpt.vip) （无需翻墙）  
 
 ---
@@ -83,7 +83,7 @@ ChatGPT 中文版镜像网站：[snakegpt.vip](https://snakegpt.vip) （无需�
 | 镜像站名称           | 地址                      | 支持版本       | 免费额度   | 注册方式       | 稳定性 | 功能亮点 |
 |----------------------|---------------------------|---------------|-----------|---------------|-------|---------|
 | **蛇语 AI**         | [snakegpt.vip](https://snakegpt.vip) | GPT-4, GPT-3.5 | 有 | 国内邮箱注册 | 高     | 中文支持、支持 Claude 和绘图 |
-| **GPT 猫中文站**     | [chat2.gptcat.cc](https://chat2.gptcat.cc)      | GPT-4        | 有 | 国内邮箱注册    | 高     | 中文界面，无广告 |
+| **GPT 猫中文站**     | [gptcat.cc](https://gptcat.cc)      | GPT-4        | 有 | 国内邮箱注册    | 高     | 中文界面，无广告 |
 | **熊猫 GPT**         | [https://ai-panda.xyz/](https://ai-panda.xyz/login?invite_code=34137c47) | GPT-4, GPT-3.5 | 有 | 邮箱注册 | 高     | 稳定快速，支持 API 调用 |
 | **狗狗 GPT**         | [gptdog.online](https://gptdog.online) | GPT-3.5      | 有 | 无需注册     | 中     | 免费无限制，新手友好 |
 
@@ -146,7 +146,7 @@ ChatGPT 中文版镜像网站：[snakegpt.vip](https://snakegpt.vip) （无需�
 
 本项目将定期更新更多优质的 ChatGPT 中文版免费资源和 GPT-4 使用教程！  
 欢迎通过以下渠道联系我们：
-- **提交问题**：通过 [GitHub Issues](https://github.com/your-repo/issues) 反馈问题或需求。
+- **提交问题**：通过 GitHub Issues 反馈问题或需求。
 - **贡献资源**：如果您发现新的免费镜像站点，请通过 Pull Request 提交。
 
 ### 🌟 支持我们：
